@@ -1,1 +1,34 @@
 @import "tailwindcss"; 
+
+.badge {
+  position: relative;
+  overflow: hidden;
+  color: #18181b;
+}
+
+.badge::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #18181b;
+  transform: translateY(100%);
+  transition: transform 0.4s ease;
+  border-radius: inherit;
+}
+
+.badge:hover::before {
+  transform: translateY(0);
+}
+
+.badge span,
+.badge {
+  position: relative;
+  z-index: 1;
+}
+
+span.badge:hover {
+  color: white !important;
+} 

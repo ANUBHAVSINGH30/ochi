@@ -9,7 +9,7 @@ export default function LandingPage() {
             return <div className='masker'>
                         <div className='w-fit flex items-end overflow-hidden'>
                             {index === 1 && (
-                                <div className='mr-[1vw] w-[8vw] rounded-md h-[5.7vw] -top-[1.2vw] relative bg-red-600'></div>
+                                <div className='mr-[1vw] w-[8vw] rounded-md h-[5.7vw] -top-[1.2vw] relative bg-pink-300'></div>
                             )}
                             <h1 className="pt-[2vw] -mb-[1vw] uppercase flex text-[9vw] leading-[.75] font-['Founders_Grotesk_X-Condensed'] font-semibold">
                                 {item}</h1>
