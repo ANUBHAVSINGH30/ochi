@@ -16,8 +16,8 @@ function Featured() {
                         <div className='w-full h-full bg-cover bg-center transition-transform duration-500 hover:scale-110' style={{backgroundImage: "url('/Salience_Website_cover-1326x1101.png')"}}></div>
                     </div>
                     <div className='w-full mt-5 flex gap-5'>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3'>BRAND IDENTITY</span>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4'>PITCH DECK</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3 text-zinc-900'>BRAND IDENTITY</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4 text-zinc-900'>PITCH DECK</span>
                     </div>
                 </div>
                <div className='flex flex-col w-1/2'>
@@ -29,8 +29,8 @@ function Featured() {
                         <div className='w-full h-full bg-cover bg-center transition-transform duration-500 hover:scale-110' style={{backgroundImage: "url('/Med_Website_0.png')"}}></div>
                     </div>
                     <div className='w-full mt-5 flex gap-5'>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3'>CONFERENCE</span>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4'>EXECUTIVE KEYNOTE</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3 text-zinc-900'>CONFERENCE</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4 text-zinc-900'>EXECUTIVE KEYNOTE</span>
                     </div>
                 </div>
             </div>
@@ -44,8 +44,8 @@ function Featured() {
                         <div className='w-full h-full bg-cover bg-center transition-transform duration-500 hover:scale-110' style={{backgroundImage: "url('/Fyde_Front-1-1326x1101.png')"}}></div>
                     </div>
                     <div className='w-full mt-5 flex gap-5'>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3'>DESIGN</span>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4'>WEB DEV</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3 text-zinc-900'>DESIGN</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4 text-zinc-900'>WEB DEV</span>
                     </div>
                 </div>
                <div className='flex flex-col w-1/2'>
@@ -57,8 +57,8 @@ function Featured() {
                         <div className='w-full h-full bg-cover bg-center transition-transform duration-500 hover:scale-110' style={{backgroundImage: "url('/Frame-3898-1-1326x1101.jpg')"}}></div>
                     </div>
                     <div className='w-full mt-5 flex gap-5'>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3'>UI/UX</span>
-                        <span className='badge border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4'>BRANDING</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-3 text-zinc-900'>UI/UX</span>
+                        <span className='border-[1.5px] text-sm font-light border-zinc-900 rounded-3xl py-1 px-4 text-zinc-900'>BRANDING</span>
                     </div>
                 </div>
             </div>
